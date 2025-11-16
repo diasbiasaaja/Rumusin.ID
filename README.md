@@ -51,7 +51,7 @@ https://drive.google.com/drive/folders/1faw6mwScrPvZaLpedWgTkWRIPCtG_gRl?usp=dri
 ---
 
 ## 🟦 1. Splash Screen  
-<img src="assets/images/splash.png" width="300">
+<img src="assets/images/Splash.png" width="300">
 
 ---
 
@@ -79,12 +79,12 @@ https://drive.google.com/drive/folders/1faw6mwScrPvZaLpedWgTkWRIPCtG_gRl?usp=dri
 
 ## 🟪 5. Home Mode List  
 > Tampilan kartu disusun secara vertikal.
-<img src="assets/screenshots/home_list.png" width="300">
+<img src="assets/images/homelist.png" width="300">
 
 ---
 
 ## 🟥 6. Home Mode Grid  
 > Tampilan kartu disusun 2 kolom (grid view).
-<img src="assets/screenshots/home_grid.png" width="300">
+<img src="assets/images/homegrid.png" width="300">
 
 ---
