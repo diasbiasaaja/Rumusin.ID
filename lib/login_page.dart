@@ -22,9 +22,6 @@ class _LoginPageState extends State<LoginPage> {
     } else if (_username.text == validUsername &&
         _password.text != validPassword) {
       _showSnackBar("Password salah!", Colors.redAccent);
-    } else if (_username.text != validUsername &&
-        _password.text == validPassword) {
-      _showSnackBar("Username salah!", Colors.redAccent);
     } else if (_username.text == validUsername &&
         _password.text == validPassword) {
       Navigator.pushReplacement(
